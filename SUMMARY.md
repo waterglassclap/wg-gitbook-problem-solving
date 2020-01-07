@@ -15,4 +15,5 @@
 * [Journey to the Moon](hackerrank/journey-to-the-moon.md)
 * [Sherlock and the Valid String](hackerrank/sherlock-and-the-valid-string.md)
 * [Picking Numbers](hackerrank/picking-numbers.md)
+* [Day of the Programmer](hackerrank/day-of-the-programmer.md)
 
