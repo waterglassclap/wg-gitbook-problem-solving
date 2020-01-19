@@ -17,4 +17,6 @@
 * [Picking Numbers](hackerrank/picking-numbers.md)
 * [Day of the Programmer](hackerrank/day-of-the-programmer.md)
 * [Gridland Metro](hackerrank/gridland-metro.md)
+* [Drawing Book](hackerrank/drawing-book.md)
+* [Lily's Homework](hackerrank/lilys-homework.md)
 
