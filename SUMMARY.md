@@ -19,4 +19,5 @@
 * [Gridland Metro](hackerrank/gridland-metro.md)
 * [Drawing Book](hackerrank/drawing-book.md)
 * [Lily's Homework](hackerrank/lilys-homework.md)
+* [Highest Palindrome](hackerrank/highest-palindrome.md)
 
